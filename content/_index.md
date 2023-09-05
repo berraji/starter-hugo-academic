@@ -16,11 +16,11 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 80%
+          description: 90%
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: 1200%
+          description: 100%
           icon: chart-line
           icon_pack: fas
         - name: Photography
