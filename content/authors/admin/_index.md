@@ -39,9 +39,9 @@ education:
     - course: MSc in Machine Learning
       institution: MBZUAI, UAE
       year: 2021-2023
-    - course: BSc in Data Science 
-      institution: UM6P, Morocco
-      year: 2018-2021
+    - #course: BSc in Data Science 
+      #institution: UM6P, Morocco
+      #year: 2018-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mail:errajibrahim20@gmail.com'
+    link: '#'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
